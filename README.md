@@ -50,6 +50,5 @@ cd Crypto-Solana-Memes-Coin_Analysis
 jupyter notebook Coins_analysis.ipynb
 ```
 
-```bash
 4. Run the notebook cells to explore the analysis.
-```
+
