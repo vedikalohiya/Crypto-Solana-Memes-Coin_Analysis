@@ -38,11 +38,18 @@ The analysis focuses on:
 
 ```bash
 git clone https://github.com/vedikalohiya/Crypto-Solana-Memes-Coin_Analysis.git
+```
 
 2. Navigate into the repository:
+```bash
 cd Crypto-Solana-Memes-Coin_Analysis
+```
 
-3. Open the Jupyter Notebook:
+4. Open the Jupyter Notebook:
+```bash
 jupyter notebook Coins_analysis.ipynb
+```
 
+```bash
 4. Run the notebook cells to explore the analysis.
+```
